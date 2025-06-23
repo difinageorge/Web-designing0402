@@ -1,0 +1,479 @@
+/* https://www.free-css.com/free-css-templates/page295/antique-cafe */
+
+*{
+    margin: 0px;
+    padding: 0%;
+}
+.page1{
+    background-image: url(antique-cafe-bg-01.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.content1{
+    display: flex;
+}
+
+.space1{
+    height: 120px;
+    width:100%;
+    background-color: #925301b3;
+}
+
+.logo-container {
+    margin-top: 0px;
+}
+
+.logo-container img {
+    
+    width: auto; 
+    height: auto; 
+    display: block;  
+}
+
+.navbar{
+    height: 100px;
+    width: 100%;
+    padding-top: 20px;
+    padding-right: 76px;
+    display: flex;
+    background-color: #925301b3;
+}
+
+li{
+    font-size: 25px;
+    color: #c96;
+    margin-left: 50px;
+    padding-top: 3px;
+    list-style: none;
+}
+.text1{
+    font-family: Oswald,sans-serif;
+    color: aliceblue;
+    height: 20%;
+    border-color: #000000;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-family: Raleway, sans-serif;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    max-width: 500px;   
+    margin-top: 50px; 
+    border-radius: 8px;
+}
+.data label{
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+    
+}
+.data h3{
+    color: #c96;
+}
+.data h4{
+    line-height: 20px;
+}
+.text2{
+    color:#ffffff;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Raleway, sans-serif;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0,0.5);
+    margin: 0 auto;
+    max-width: 500px;
+    border-radius: 5px;
+}
+.button{
+
+    margin: 39px;
+    justify-content: center;
+    display: flex;
+    border-color: #c96;
+    border-width: 25px;
+}
+.button img{
+    height: 50px;
+}
+.button button{
+    height: 55px; 
+    width: 250px; 
+    border-color : #c96; 
+    color: #c96; 
+    background-color: rgba(0, 0, 0,0.7); 
+    font-size:large; 
+    border-radius: 8px;
+}
+.page2{
+    background-image: url(antique-cafe-bg-02.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+.content2 {
+    justify-content: center;
+    max-width: fit-content;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 30px;
+    background-color: aliceblue;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #111;
+    display: flex;
+    margin-left: 32%;
+    margin-bottom: 10px;
+}
+
+
+.table {
+    display:flex;
+    color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+}
+.table li{
+    color: #c96;
+    align-items:center ;
+    text-align: center;
+}
+.table img{
+    padding-left: 0px;
+}
+.table .card{
+    
+  background-color:rgba(58, 43, 4, 0.7);;
+  border-radius: 8px;
+ padding-right:15px ;
+ padding-top: 10px;
+align-items: center;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  font-size: xx-small;
+}
+
+.page3{
+    background-image: url(antique-cafe-bg-03.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.space2{
+    height: 80px;
+    width:100%;
+}
+.space3{
+    padding-top: 50px;
+    height:60%;
+    width:50%;
+    background-color: rgba(255, 246, 246,0.7);
+    margin-left: 400px;
+    /* display: flex; */
+    font-size: medium;
+    border-radius: 10px;
+}
+.space3 .about{
+text-align: center;
+color: rgb(10, 65, 46);
+font-size: 50px;
+/* font-size: 50px; */
+padding-bottom: 20px;
+}
+.space3 .para{
+    padding-left: 18px;
+    padding-right: 15px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 15px;
+letter-spacing: 2px;
+}
+.contact {
+    display: flex;
+    margin-top: 15px;
+}
+.contact button{
+    margin: 0 auto;
+    height: 50px;
+    width: 200px;
+    background-color: #066;
+    font-size: 18px;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    border-radius: 5px;
+}
+
+.page4{
+    background-image: url(antique-cafe-bg-04.jpg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.box{
+    display: flex;
+}
+
+.left-side{
+    margin-right: 5px;
+    padding-top: 20px;
+    padding-left: 50px;
+    width: 45%;
+    height:350px;
+    background-color: rgba(245, 232, 198,0.7);
+    border-radius: 15px;
+}
+
+.headtext{
+    color: #066;
+    text-align: center;
+    font-size: 50px;
+}
+.left-side p{
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+.add{
+    color:#066;
+}
+.left-side button{
+    background-color: #066;
+    color: #ffffff;
+    border: none;
+    height: 60px;
+    width: 250px;
+    font-size:20px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.form-box{
+    padding-top: 50px;
+    padding-left: 50px;
+    width: 45%;
+    height: 320px;
+    background-color: rgba(54, 52, 48, 0.5);
+    border-radius: 15px;
+    font-size: 25px;
+}
+.footer{
+    margin-top: 5px;
+    width: 100%;
+    background-color:rgba(190, 155, 85, 0.5);
+    height: 33px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    padding-top: 12px;
+   
+}
+
+.outer-box{
+    padding-top: 10px;
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+    height: 360px;
+}
+label{
+    margin-left: 12px;
+    font-weight: bolder;
+
+}
+.outer-box .connect{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: antiquewhite;    
+}
+
+.inner-box{
+    margin-top: 20px;
+    display: flex;
+    background-color: rgb(255, 255, 255);   
+    height: 180px;
+    padding-left: 70px;
+    padding-top: 80px;
+    font-size: large;
+    line-height: 32px;
+    }
+.inner-box .details{
+    font-size: 20px;
+}
+
+.inner-box .social-media{
+margin-left: 400px;
+line-height: 30px;
+}
+
+.copyright{
+    margin-top: 12px;
+    color: #ffffff;
+    width: 100%;
+}
+
+@media only screen and (max-width: 375px) {
+    .page1{
+        width: 100%;
+    }
+
+    .space1{
+        background-color: rgba(58, 43, 4, 0.0);
+    }
+
+    .navbar{
+        background-color: none;
+        display: none;
+    }
+
+    .text1{
+        max-width: 100%;
+        font-size: 15px;
+        max-height: fit-content;
+    }
+    .text2{
+        width: 100%;
+        font-size: 11px;
+        line-height: 5px;
+    }
+    
+    .button img{
+        height:35px;
+    }
+    
+    .button button{
+        height: 35px;
+        width:150px ;
+    }
+
+    .page2{
+        width: 100%;
+    }
+
+    .content2{
+        height: 20px;
+        font-size: 20px;
+        margin-left: 90px;
+    }
+    .table{
+        margin-left: 52px;
+        width: 100%;
+        
+    }
+    .table img{
+        align-items: center;
+        width: 60px;
+        padding-right: 15px;
+    }
+    .table .card{
+        height: 60px;
+        width: 60px;
+        display: inline-table;
+        padding-left: 0px;
+        max-width: 100px;
+        max-height: 100px;
+       padding-left: 0px;
+    }
+    .table li{
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .page3{
+        width: 100%; 
+    }
+    .space2{
+        width: 0px;
+        height: 0px;
+    }
+    .space3{
+        margin-left: 75px;
+        width: 290px;
+        height: 250px;
+    }
+    .space3 .about{
+        font-size: 20px;
+        font-weight: 10px;
+    }
+    .space3 .para{
+        font-size: 12px;
+    }
+    .contact{
+        margin-top: 5px;
+        padding-right: 80px;
+    }
+    .contact button{
+        height: 50px;
+        width: 150px;
+        font-size: 15px;
+    }
+
+.page4{
+    width: 100%;
+}
+
+.left-side{
+   margin-top: 100px;
+    margin-right: 5px;
+    padding-top: 15px;
+    padding-left: 10px;
+    height: 260px;
+    width: 230px;
+}
+
+.headtext{
+    font-size: 25px;
+}
+
+.left-side p{
+    font-size: 11px;
+}
+
+.left-side button{
+    height: 50px;
+    width: 120px;
+    font-size: 15px;
+}
+
+.form-box{
+    margin-top: 100px;
+    height:225px;
+    justify-content: center;
+font-size: 15px;
+}
+
+.inner-box{
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+}
+.inner-box .details{
+    margin-top: 45px;
+    font-size: 12px;
+}
+.details img{
+    height: 20px;
+}
+
+.inner-box .social-media{
+    margin-top: 15px;
+    margin-left: 70px;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 15px;
+}
+.social-media img{
+    height: 25px;
+}
+}
